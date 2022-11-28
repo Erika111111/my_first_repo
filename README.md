@@ -6,6 +6,6 @@
 Добавила текст через браузер. Add englich text in browser
 
 ## Картинка
-это яблоко
+это яблоко. This apple.
 
 ![это панда](panda.jpeg)
